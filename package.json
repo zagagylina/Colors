@@ -1,0 +1,22 @@
+{
+  "name": "Hello color",
+  "version": "1.0.0",
+  "description": "Say Hello to colorful world",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zagagylina/Colors.git"
+  },
+  "author": "Anton Novikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zagagylina/Colors/issues"
+  },
+  "homepage": "https://github.com/zagagylina/Colors#readme",
+  "devDependencies": {
+    "colors": "^1.3.3"
+  }
+}
